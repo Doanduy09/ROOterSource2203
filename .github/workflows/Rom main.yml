@@ -2,7 +2,7 @@
 # Copyright (c) 2023
 #
 
-name: Build Immor R3G
+name: Build ROOterSource2203
 
 on:
   release:
